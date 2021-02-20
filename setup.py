@@ -42,7 +42,7 @@ extras_require = {
     ]
 }
 
-setup(name='discord-voice.py',
+setup(name='discordvoice.py',
       author='Rapptz',
       url='https://github.com/Rapptz/discord.py',
       project_urls={
